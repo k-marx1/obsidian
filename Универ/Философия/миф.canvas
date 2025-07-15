@@ -1,0 +1,124 @@
+{
+  "edges": [
+    {
+      "fromNode": "b14f195e69111bce",
+      "fromSide": "top",
+      "id": "aa090f1dbbf3e300",
+      "styleAttributes": {
+      },
+      "toNode": "6a2a67ef3356d139",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "b14f195e69111bce",
+      "fromSide": "top",
+      "id": "7e3dfcd9a2962f81",
+      "styleAttributes": {
+      },
+      "toNode": "5749975f46e92af7",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "b14f195e69111bce",
+      "fromSide": "right",
+      "id": "d1222afced919a48",
+      "styleAttributes": {
+      },
+      "toNode": "d98225daf51829ea",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b14f195e69111bce",
+      "fromSide": "bottom",
+      "id": "a438a9608ec6dfca",
+      "styleAttributes": {
+      },
+      "toNode": "3fd460e0a78703f4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b14f195e69111bce",
+      "fromSide": "left",
+      "id": "4ee73984a9a0d7db",
+      "styleAttributes": {
+      },
+      "toNode": "ee6531575628134a",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 220,
+      "id": "6a2a67ef3356d139",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Сакральные истории",
+      "type": "text",
+      "width": 260,
+      "x": -820,
+      "y": -600
+    },
+    {
+      "height": 220,
+      "id": "b14f195e69111bce",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Миф",
+      "type": "text",
+      "width": 280,
+      "x": -460,
+      "y": -200
+    },
+    {
+      "height": 220,
+      "id": "5749975f46e92af7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Рассказы о богах",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": -760
+    },
+    {
+      "height": 220,
+      "id": "3fd460e0a78703f4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Не один бог",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": 240
+    },
+    {
+      "height": 220,
+      "id": "ee6531575628134a",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Обряды, ритуалы",
+      "type": "text",
+      "width": 260,
+      "x": -880,
+      "y": 60
+    },
+    {
+      "height": 220,
+      "id": "d98225daf51829ea",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Мир богов и людей один",
+      "type": "text",
+      "width": 260,
+      "x": 120,
+      "y": -240
+    }
+  ]
+}

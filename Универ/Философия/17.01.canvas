@@ -1,0 +1,208 @@
+{
+  "edges": [
+    {
+      "fromNode": "b0d6ee10ad3efd22",
+      "fromSide": "left",
+      "id": "7f563a2d61c4f5d4",
+      "styleAttributes": {
+      },
+      "toNode": "29811a454ce9cc96",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "c790bb1d35eb73a2",
+      "fromSide": "right",
+      "id": "b87eb3695191be8e",
+      "styleAttributes": {
+      },
+      "toNode": "29811a454ce9cc96",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "b82cac007571082c",
+      "fromSide": "right",
+      "id": "ef2ece329ae15fb8",
+      "styleAttributes": {
+      },
+      "toNode": "29811a454ce9cc96",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cb879bb2480c9633",
+      "fromSide": "bottom",
+      "id": "55c01255939f8865",
+      "styleAttributes": {
+      },
+      "toNode": "29811a454ce9cc96",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "29811a454ce9cc96",
+      "fromSide": "bottom",
+      "id": "854e89b0b61bb145",
+      "styleAttributes": {
+      },
+      "toNode": "2151d727fa07c807",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "2151d727fa07c807",
+      "fromSide": "bottom",
+      "id": "9165518e90574cb8",
+      "styleAttributes": {
+      },
+      "toNode": "35baccb2aaeef9c3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "314c8f1ef4033bd9",
+      "fromSide": "bottom",
+      "id": "17ef92f8877a5ac7",
+      "styleAttributes": {
+      },
+      "toNode": "29811a454ce9cc96",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "29811a454ce9cc96",
+      "fromSide": "bottom",
+      "id": "feb48f51b9eb1897",
+      "styleAttributes": {
+      },
+      "toNode": "e3a67534ad872002",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e3a67534ad872002",
+      "fromSide": "bottom",
+      "id": "0d060f949e59dc18",
+      "styleAttributes": {
+      },
+      "toNode": "e4b6468f14c8e1ba",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "29811a454ce9cc96",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Философская стихия",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "height": 60,
+      "id": "314c8f1ef4033bd9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Формулирование своих размышлений",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": -270
+    },
+    {
+      "height": 60,
+      "id": "cb879bb2480c9633",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Соразмышление с автором",
+      "type": "text",
+      "width": 260,
+      "x": 310,
+      "y": -180
+    },
+    {
+      "height": 60,
+      "id": "c790bb1d35eb73a2",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Поиск",
+      "type": "text",
+      "width": 260,
+      "x": -520,
+      "y": -180
+    },
+    {
+      "height": 60,
+      "id": "b82cac007571082c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Чтение",
+      "type": "text",
+      "width": 260,
+      "x": -520,
+      "y": 70
+    },
+    {
+      "height": 60,
+      "id": "b0d6ee10ad3efd22",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Размышления",
+      "type": "text",
+      "width": 260,
+      "x": 310,
+      "y": 130
+    },
+    {
+      "height": 60,
+      "id": "2151d727fa07c807",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Трансформация в жизни",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": 250
+    },
+    {
+      "height": 60,
+      "id": "35baccb2aaeef9c3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Преобразование",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": 340
+    },
+    {
+      "height": 60,
+      "id": "e3a67534ad872002",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Пробуждение самотоятельности",
+      "type": "text",
+      "width": 260,
+      "x": -320,
+      "y": 250
+    },
+    {
+      "height": 60,
+      "id": "e4b6468f14c8e1ba",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Самоидентификация",
+      "type": "text",
+      "width": 260,
+      "x": -320,
+      "y": 340
+    }
+  ]
+}

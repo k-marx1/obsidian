@@ -1,0 +1,102 @@
+{
+  "edges": [
+    {
+      "fromNode": "efed67bf2adca9bd",
+      "fromSide": "top",
+      "id": "1aa3b178d9a74ec2",
+      "styleAttributes": {
+      },
+      "toNode": "16661f2cdbc106dc",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "efed67bf2adca9bd",
+      "fromSide": "top",
+      "id": "62ac5dcc86552f0c",
+      "styleAttributes": {
+      },
+      "toNode": "bb8339384ee8be75",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "efed67bf2adca9bd",
+      "fromSide": "bottom",
+      "id": "19952a0a713ac43e",
+      "styleAttributes": {
+      },
+      "toNode": "15ef8fafbad8e89d",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "efed67bf2adca9bd",
+      "fromSide": "bottom",
+      "id": "345a14b53109b856",
+      "styleAttributes": {
+      },
+      "toNode": "19b5f3f65aae7a5b",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "efed67bf2adca9bd",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Религия",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "height": 60,
+      "id": "15ef8fafbad8e89d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Догматична",
+      "type": "text",
+      "width": 260,
+      "x": -380,
+      "y": 120
+    },
+    {
+      "height": 100,
+      "id": "16661f2cdbc106dc",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Дает готовую совокупность практик связи с Богом",
+      "type": "text",
+      "width": 260,
+      "x": -380,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "bb8339384ee8be75",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Один Бог",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -180
+    },
+    {
+      "height": 60,
+      "id": "19b5f3f65aae7a5b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Связаться с Богом сложнее",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": 120
+    }
+  ]
+}

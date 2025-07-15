@@ -1,4 +1,12 @@
 [
   "obsidian-excalidraw-plugin",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-languagetool-plugin",
+  "advanced-canvas",
+  "canvas-mindmap",
+  "obsidian-desmos",
+  "table-editor-obsidian",
+  "chem",
+  "ketcher",
+  "obsidian-git"
 ]

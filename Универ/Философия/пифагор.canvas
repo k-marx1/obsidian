@@ -1,0 +1,144 @@
+{
+  "edges": [
+    {
+      "fromNode": "fa919b4eee5673ee",
+      "fromSide": "top",
+      "id": "376dc75983831253",
+      "styleAttributes": {
+      },
+      "toNode": "8bec37401b257cef",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8bec37401b257cef",
+      "fromSide": "top",
+      "id": "26fc7c832ffd0d3f",
+      "styleAttributes": {
+      },
+      "toNode": "70c2fa0dbba97c1d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "70c2fa0dbba97c1d",
+      "fromSide": "top",
+      "id": "ba85a2cbf88f09cd",
+      "styleAttributes": {
+      },
+      "toNode": "b650e6e96de9466f",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "70c2fa0dbba97c1d",
+      "fromSide": "top",
+      "id": "f241bab0e29db473",
+      "styleAttributes": {
+      },
+      "toNode": "70f6833f551d736c",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "8bec37401b257cef",
+      "fromSide": "top",
+      "id": "bd876b4e0f5933d7",
+      "styleAttributes": {
+      },
+      "toNode": "37b153906c055ddf",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "8bec37401b257cef",
+      "fromSide": "bottom",
+      "id": "c17e7ee9cff0b167",
+      "styleAttributes": {
+      },
+      "toNode": "dad0a11f319d745f",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "8bec37401b257cef",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Пифагор (570-490г. до н.э.)",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "height": 60,
+      "id": "fa919b4eee5673ee",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "понятие  \"философия\"",
+      "type": "text",
+      "width": 260,
+      "x": -460,
+      "y": 160
+    },
+    {
+      "height": 60,
+      "id": "70f6833f551d736c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "решения, этика",
+      "type": "text",
+      "width": 260,
+      "x": -300,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "b650e6e96de9466f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "наука",
+      "type": "text",
+      "width": 260,
+      "x": -660,
+      "y": -340
+    },
+    {
+      "height": 60,
+      "id": "37b153906c055ddf",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "все есть число",
+      "type": "text",
+      "width": 260,
+      "x": 200,
+      "y": -220
+    },
+    {
+      "height": 60,
+      "id": "dad0a11f319d745f",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "\"гармония сфер\"",
+      "type": "text",
+      "width": 260,
+      "x": -140,
+      "y": 160
+    },
+    {
+      "height": 60,
+      "id": "70c2fa0dbba97c1d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Пифагорейское общество",
+      "type": "text",
+      "width": 260,
+      "x": -480,
+      "y": -160
+    }
+  ]
+}

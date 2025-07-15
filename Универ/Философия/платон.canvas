@@ -1,0 +1,134 @@
+{
+  "edges": [
+    {
+      "fromNode": "eaa797efb47a0219",
+      "fromSide": "top",
+      "id": "0406bd7685fe0d16",
+      "styleAttributes": {
+      },
+      "toNode": "9058db19f3995a19",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "eaa797efb47a0219",
+      "fromSide": "left",
+      "id": "e2e66c38979c85a3",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "6bbc0d477570adc5",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "4ef6c274e8db4ee5",
+      "fromSide": "bottom",
+      "id": "fd4c731dc3e91fda",
+      "styleAttributes": {
+      },
+      "toEnd": "none",
+      "toNode": "6bbc0d477570adc5",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "4ef6c274e8db4ee5",
+      "fromSide": "right",
+      "id": "6ecf610cf7e6f9ed",
+      "styleAttributes": {
+      },
+      "toNode": "9058db19f3995a19",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "4ef6c274e8db4ee5",
+      "fromSide": "left",
+      "id": "8d1befa48c4bd845",
+      "styleAttributes": {
+      },
+      "toNode": "2e02d4c284211848",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "4ef6c274e8db4ee5",
+      "fromSide": "top",
+      "id": "9aa63b79e67dbc29",
+      "styleAttributes": {
+      },
+      "toNode": "fb9feb51cbafee28",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "4ef6c274e8db4ee5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Платон (428-348г. до н.э.)",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "height": 60,
+      "id": "9058db19f3995a19",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "От видовых понятий к родовым",
+      "type": "text",
+      "width": 260,
+      "x": 330,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "fb9feb51cbafee28",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Ученик Сократа",
+      "type": "text",
+      "width": 260,
+      "x": -500,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "6bbc0d477570adc5",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Теория идей (эйдосов)",
+      "type": "text",
+      "width": 260,
+      "x": -180,
+      "y": 160
+    },
+    {
+      "height": 60,
+      "id": "2e02d4c284211848",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Мир истины вечен",
+      "type": "text",
+      "width": 260,
+      "x": -580,
+      "y": 160
+    },
+    {
+      "height": 60,
+      "id": "eaa797efb47a0219",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Диалектика",
+      "type": "text",
+      "width": 260,
+      "x": 260,
+      "y": 160
+    }
+  ]
+}

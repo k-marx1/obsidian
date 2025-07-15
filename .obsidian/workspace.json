@@ -4,42 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce0f1ac9440bee7",
+        "id": "f1f75c6c8463a04b",
         "type": "tabs",
         "children": [
           {
-            "id": "42f195c881fe8809",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 19.12.52.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c7357aff11f49df5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Pasted Image 20240929203742_991.png"
-              }
-            }
-          },
-          {
-            "id": "c87691fda3988970",
+            "id": "b1bffa9564832c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Универ/Математика/Практика/23.09.md",
+                "file": "Универ/ДПК/Згонник.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Згонник"
+            }
+          },
+          {
+            "id": "ab9d1f6cbc303226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Универ/ДПК/Згонник.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Згонник"
+            }
+          },
+          {
+            "id": "afdd6b6aa0570a8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Универ/ДПК/Згонник.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Згонник"
+            }
+          },
+          {
+            "id": "db0d2a3974cdf433",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Универ/English/03.10.md",
+                "bFile": "Универ/English/03.10.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 03.10"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -58,8 +83,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -74,7 +102,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -82,14 +112,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 322.5026054382324
+    "width": 200
   },
   "right": {
     "id": "f5f5ad3ee8295b65",
@@ -105,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 19.12.52.excalidraw.md",
+                "file": "Универ/Философия/Лекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +145,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Лекции"
             }
           },
           {
@@ -122,10 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 19.12.52.excalidraw.md",
+                "file": "Универ/Химическая технология неорганических веществ/Лекции/Лекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Лекции"
             }
           },
           {
@@ -136,7 +172,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -145,17 +183,38 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-29 19.12.52.excalidraw.md"
-              }
+                "file": "Универ/Философия/Лекции.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Лекции"
+            }
+          },
+          {
+            "id": "3cc6ea3d136a34fd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "79cd1ee905e7a594",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 683.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,56 +224,69 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "ketcher:Create new structure": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42f195c881fe8809",
+  "active": "db0d2a3974cdf433",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-09 10.55.21.excalidraw.md",
-    "Универ/Математика/ДЗ/ДЗ3.md",
-    "Универ/Математика/Практика/23.09.md",
-    "Images/Pasted Image 20240929203742_991.png",
-    "Excalidraw/Drawing 2024-09-29 19.12.52.excalidraw.md",
-    "Images/Pasted Image 20240929200204_266.png",
-    "Универ/Математика/Практика/16.09.md",
-    "Excalidraw/Drawing 2024-09-23 11.04.28.excalidraw.md",
-    "Images/Pasted Image 20240929191303_630.png",
-    "Images/Pasted image 20240926131138.png",
-    "logs/xvba_debug.log",
-    "logs",
-    "obsidian/logs/xvba_debug.log",
-    "obsidian/logs",
-    "obsidian",
-    "Универ/Физика/Лекции/16.09.md",
-    "Универ/Химическая технология неорганических веществ/Лекции/11.09.md",
-    "Универ/Химическая технология неорганических веществ/Практика/27.07.md",
-    "Универ/English/HW/HW1.md",
-    "Универ/Химическая технология неорганических веществ/Лекции/25.09.md",
-    "Универ/English/HW",
-    "Images/Pasted image 20240925100831.png",
-    "Images/Pasted image 20240925100825.png",
-    "Images/Pasted image 20240925095113.png",
-    "Images/Pasted image 20240925092740.png",
-    "Универ/Физика/Практика/10.09.md",
-    "Images/Pasted Image 20240923113839_872.png",
-    "Универ/Химическая технология неорганических веществ/Лекции/18.09.md",
-    "Универ/Химическая технология неорганических веществ/Практика/20.09.md",
-    "Images/Pasted Image 20240923113745_541.png",
-    "Excalidraw/Drawing 2024-09-20 10.44.20.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-16 11.48.34.excalidraw.md",
-    "Универ/Математика/Практика/09.09.md",
-    "Excalidraw/Drawing 2024-09-20 11.14.28.excalidraw.md",
-    "Универ/Химическая технология неорганических веществ/Практика/13.09.md",
-    "Универ/English/19.09.md",
-    "Универ/English",
-    "Универ/Untitled.md",
-    "Универ/Математика/Лекции/17.09.md",
-    "Универ/Социология и психология/Практика/17.09.md",
-    "Универ/Социология и психология/Практика",
-    "Универ/Социология и психология",
-    "Excalidraw/Drawing 2024-09-16 11.58.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-16 11.24.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-16 11.06.32.excalidraw.md",
-    "Универ/Физика/Лекции"
+    "0efdeb5e-a9ef-466c-beb2-eea86bff33c3~1.jpg",
+    "Универ/ДПК/Згонник.md",
+    "java-interview/done.md",
+    "java-interview/images/SQL/row_number-sql-rank-function.png",
+    "java-interview/images/SQL/row_number-example.png",
+    "java-interview/images/SQL/ranksql-rank-function.png",
+    "java-interview/images/SQL/Placeholder.txt",
+    "java-interview/images/SQL/output-of-rank-function-for-similar-values.png",
+    "java-interview/images/SQL/output-of-dense_rank-function.png",
+    "java-interview/images/SQL/output-of-ntilen-function-with-partition.png",
+    "java-interview/images/SQL/ntilen-sql-rank-function.png",
+    "java-interview/images/SQL/ntilen-function-with-partition.png",
+    "java-interview/images/SQL/image.png",
+    "java-interview/images/SQL/difference-between-rank-and-dense_rank.png",
+    "java-interview/images/SQL",
+    "java-interview/images/Placeholder.txt",
+    "java-interview/images",
+    "java-interview/xml.md",
+    "java-interview/web.md",
+    "java-interview/uml.md",
+    "java-interview/test.md",
+    "java-interview/sql.md",
+    "java-interview/servlets.md",
+    "java-interview/serialization.md",
+    "java-interview/reactive.md",
+    "java-interview/patterns.md",
+    "java-interview/oop.md",
+    "java-interview/mcon.sh",
+    "java-interview/mcon.bat",
+    "java-interview/log.md",
+    "java-interview/kafka.md",
+    "java-interview/jvm.md",
+    "java-interview/jdbc.md",
+    "java-interview/jcf.md",
+    "java-interview/examples/src/main/java/xyz/enhorse/example/oop/PolymorphicTicTock.java",
+    "java-interview/examples/src/main/java/xyz/enhorse/example/concurrency/WaitNotify.java",
+    "java-interview/examples/src/main/java/xyz/enhorse/example/concurrency/VolatileBehaviour.java",
+    "java-interview/examples/src/main/java/xyz/enhorse/example/oop",
+    "java-interview/examples/README.md",
+    "java-interview/db.md",
+    "java-interview/css.md",
+    "java-interview/core.md",
+    "java-interview/concurrency.md",
+    "java-interview/README.md",
+    "Универ/ДПК/Приготовление_товарной_продукции.md",
+    "Универ/ДПК/Саламатова.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Универ/Философия/средн.canvas",
+    "Универ/Философия/госво.canvas",
+    "Универ/Философия/платон.canvas",
+    "Универ/Философия/сократ.canvas",
+    "Универ/Философия/софисты.canvas",
+    "Универ/Философия/детерменизм.canvas",
+    "Универ/Философия/парменид.canvas"
   ]
 }

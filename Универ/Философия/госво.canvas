@@ -1,0 +1,157 @@
+{
+  "edges": [
+    {
+      "fromNode": "f2488933cf9d18f1",
+      "fromSide": "top",
+      "id": "a750eb26caf36a1b",
+      "styleAttributes": {
+      },
+      "toNode": "37546d6b6551cb2d",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "f2488933cf9d18f1",
+      "fromSide": "bottom",
+      "id": "fecbe799dc01d165",
+      "styleAttributes": {
+      },
+      "toNode": "59713a709dd5e419",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f2488933cf9d18f1",
+      "fromSide": "bottom",
+      "id": "ec3ddcc47a516c7c",
+      "styleAttributes": {
+      },
+      "toNode": "3602b61033538482",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f2488933cf9d18f1",
+      "fromSide": "bottom",
+      "id": "4370505d02be0493",
+      "styleAttributes": {
+      },
+      "toNode": "59f9d9ef5b1947ed",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "59f9d9ef5b1947ed",
+      "fromSide": "bottom",
+      "id": "e4dc4d6ffa5e388e",
+      "styleAttributes": {
+      },
+      "toNode": "ec3541cc47dcf7f3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "59f9d9ef5b1947ed",
+      "fromSide": "bottom",
+      "id": "ca40e6b6ca1e66f2",
+      "styleAttributes": {
+      },
+      "toNode": "9b8fb733db3ede59",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "37546d6b6551cb2d",
+      "fromSide": "right",
+      "id": "9d95fcd11d15bcbc",
+      "styleAttributes": {
+      },
+      "toNode": "7901beee3f836e85",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "59f9d9ef5b1947ed",
+      "styleAttributes": {
+      },
+      "text": "анализ форм правления",
+      "type": "text",
+      "width": 260,
+      "x": 120,
+      "y": -220
+    },
+    {
+      "height": 190,
+      "id": "9b8fb733db3ede59",
+      "styleAttributes": {
+      },
+      "text": "правильные (напрв. на всеобщее благо)\n- монархия\n- аристократия",
+      "type": "text",
+      "width": 260,
+      "x": 300,
+      "y": -130
+    },
+    {
+      "height": 290,
+      "id": "ec3541cc47dcf7f3",
+      "styleAttributes": {
+      },
+      "text": "неправильные (направ. на благо власть имущих)\n- тимократия\n- олигархия\n- демократия\n- тирания",
+      "type": "text",
+      "width": 260,
+      "x": -20,
+      "y": -130
+    },
+    {
+      "height": 60,
+      "id": "37546d6b6551cb2d",
+      "styleAttributes": {
+      },
+      "text": "отношение к искусству",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -500
+    },
+    {
+      "height": 120,
+      "id": "59713a709dd5e419",
+      "styleAttributes": {
+      },
+      "text": "трехчастность душ\n- разумная\n- волевая\n- желающая",
+      "type": "text",
+      "width": 260,
+      "x": -640,
+      "y": -250
+    },
+    {
+      "height": 60,
+      "id": "f2488933cf9d18f1",
+      "styleAttributes": {
+      },
+      "text": "\"Государство\"",
+      "type": "text",
+      "width": 260,
+      "x": -310,
+      "y": -380
+    },
+    {
+      "height": 220,
+      "id": "3602b61033538482",
+      "styleAttributes": {
+      },
+      "text": "3 класса\n- правители-философы\n- воины\n- ремесленники/земледельцы",
+      "type": "text",
+      "width": 260,
+      "x": -360,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "7901beee3f836e85",
+      "styleAttributes": {
+      },
+      "text": "удвоение подобий",
+      "type": "text",
+      "width": 260,
+      "x": 170,
+      "y": -600
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "edges": [
+    {
+      "fromNode": "873d504d8cb5aa93",
+      "fromSide": "left",
+      "id": "c2c677a7d810df37",
+      "styleAttributes": {
+      },
+      "toNode": "59f5a6eaad7029e4",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "59f5a6eaad7029e4",
+      "fromSide": "top",
+      "id": "19618333e2155883",
+      "styleAttributes": {
+      },
+      "toNode": "eaf996f7777f5be4",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "59f5a6eaad7029e4",
+      "fromSide": "left",
+      "id": "5572edd85e33dee0",
+      "styleAttributes": {
+      },
+      "toNode": "552c2f4f2ab988b8",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "59f5a6eaad7029e4",
+      "fromSide": "bottom",
+      "id": "60474fa08751465f",
+      "styleAttributes": {
+      },
+      "toNode": "c5492b52c1a3fec0",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "873d504d8cb5aa93",
+      "fromSide": "left",
+      "id": "bcd235655326d7e9",
+      "styleAttributes": {
+      },
+      "toNode": "b12ef060f5310fe4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "873d504d8cb5aa93",
+      "fromSide": "bottom",
+      "id": "a05227958597b507",
+      "styleAttributes": {
+      },
+      "toNode": "0a24fd4af19f9380",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "0a24fd4af19f9380",
+      "fromSide": "bottom",
+      "id": "71e25e22fe0bcc7e",
+      "styleAttributes": {
+      },
+      "toNode": "5161733db527a82b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "873d504d8cb5aa93",
+      "fromSide": "bottom",
+      "id": "4cc9ba43f79023df",
+      "styleAttributes": {
+      },
+      "toNode": "d5c8e99b4afd97d9",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "873d504d8cb5aa93",
+      "fromSide": "bottom",
+      "id": "df529fd96d864c22",
+      "styleAttributes": {
+      },
+      "toNode": "df08df4205482353",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "873d504d8cb5aa93",
+      "fromSide": "top",
+      "id": "4c7e46799cc892d0",
+      "styleAttributes": {
+      },
+      "toNode": "be2919878f127280",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "873d504d8cb5aa93",
+      "fromSide": "top",
+      "id": "dc17d29eb168bcc7",
+      "styleAttributes": {
+      },
+      "toNode": "ce4e435f979d3fbe",
+      "toSide": "bottom"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "873d504d8cb5aa93",
+      "styleAttributes": {
+      },
+      "text": "Средневековая философия",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -20
+    },
+    {
+      "height": 60,
+      "id": "be2919878f127280",
+      "styleAttributes": {
+      },
+      "text": "Креационизм",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": -380
+    },
+    {
+      "height": 60,
+      "id": "ce4e435f979d3fbe",
+      "styleAttributes": {
+      },
+      "text": "Теоцентризм",
+      "type": "text",
+      "width": 260,
+      "x": 220,
+      "y": -300
+    },
+    {
+      "height": 60,
+      "id": "df08df4205482353",
+      "styleAttributes": {
+      },
+      "text": "Провиденциализм",
+      "type": "text",
+      "width": 260,
+      "x": 240,
+      "y": 80
+    },
+    {
+      "height": 60,
+      "id": "d5c8e99b4afd97d9",
+      "styleAttributes": {
+      },
+      "text": "Персонализм",
+      "type": "text",
+      "width": 260,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "height": 60,
+      "id": "0a24fd4af19f9380",
+      "styleAttributes": {
+      },
+      "text": "Ревеляционизм",
+      "type": "text",
+      "width": 260,
+      "x": -200,
+      "y": 180
+    },
+    {
+      "height": 60,
+      "id": "5161733db527a82b",
+      "styleAttributes": {
+      },
+      "text": "Бог (истина открывает себя)",
+      "type": "text",
+      "width": 260,
+      "x": -300,
+      "y": 300
+    },
+    {
+      "height": 60,
+      "id": "b12ef060f5310fe4",
+      "styleAttributes": {
+      },
+      "text": "Антимонии",
+      "type": "text",
+      "width": 260,
+      "x": -620,
+      "y": 150
+    },
+    {
+      "height": 60,
+      "id": "c5492b52c1a3fec0",
+      "styleAttributes": {
+      },
+      "text": "Личность",
+      "type": "text",
+      "width": 260,
+      "x": -780,
+      "y": 10
+    },
+    {
+      "height": 60,
+      "id": "eaf996f7777f5be4",
+      "styleAttributes": {
+      },
+      "text": "Предел, абсолют",
+      "type": "text",
+      "width": 260,
+      "x": -540,
+      "y": -240
+    },
+    {
+      "height": 60,
+      "id": "552c2f4f2ab988b8",
+      "styleAttributes": {
+      },
+      "text": "Трансцендентен",
+      "type": "text",
+      "width": 260,
+      "x": -880,
+      "y": -180
+    },
+    {
+      "height": 60,
+      "id": "59f5a6eaad7029e4",
+      "styleAttributes": {
+      },
+      "text": "Бог",
+      "type": "text",
+      "width": 260,
+      "x": -520,
+      "y": -120
+    }
+  ]
+}
