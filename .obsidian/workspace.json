@@ -50,21 +50,31 @@
             }
           },
           {
-            "id": "db0d2a3974cdf433",
+            "id": "e92349c49a5fa5b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "ket-view",
               "state": {
-                "file": "Универ/ДПК/Згонник.md",
-                "mode": "source",
-                "source": false
+                "file": "Ketcher/Ketcher 8-30-2025 07.41.08.ket"
               },
-              "icon": "lucide-file",
-              "title": "Згонник"
+              "icon": "ketcher",
+              "title": "Ketcher 8-30-2025 07.41.08"
+            }
+          },
+          {
+            "id": "038c6fb199a42560",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -214,10 +224,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 683.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -230,10 +241,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db0d2a3974cdf433",
+  "active": "038c6fb199a42560",
   "lastOpenFiles": [
-    "0efdeb5e-a9ef-466c-beb2-eea86bff33c3~1.jpg",
+    "Untitled",
     "Универ/ДПК/Згонник.md",
+    "Ketcher/Ketcher 8-30-2025 07.41.08.ket",
+    "0efdeb5e-a9ef-466c-beb2-eea86bff33c3~1.jpg",
     "java-interview/done.md",
     "java-interview/images/SQL/row_number-sql-rank-function.png",
     "java-interview/images/SQL/row_number-example.png",
@@ -245,7 +258,6 @@
     "java-interview/images/SQL/ntilen-sql-rank-function.png",
     "java-interview/images/SQL/ntilen-function-with-partition.png",
     "java-interview/images/SQL/image.png",
-    "java-interview/images/SQL/difference-between-rank-and-dense_rank.png",
     "java-interview/images/SQL",
     "java-interview/images/Placeholder.txt",
     "java-interview/images",
@@ -269,7 +281,6 @@
     "java-interview/examples/src/main/java/xyz/enhorse/example/oop/PolymorphicTicTock.java",
     "java-interview/examples/src/main/java/xyz/enhorse/example/concurrency/WaitNotify.java",
     "java-interview/examples/src/main/java/xyz/enhorse/example/concurrency/VolatileBehaviour.java",
-    "java-interview/examples/src/main/java/xyz/enhorse/example/oop",
     "java-interview/examples/README.md",
     "java-interview/db.md",
     "java-interview/css.md",
