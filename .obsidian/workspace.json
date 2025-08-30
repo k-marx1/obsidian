@@ -65,12 +65,14 @@
             "id": "038c6fb199a42560",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -243,6 +245,8 @@
   },
   "active": "038c6fb199a42560",
   "lastOpenFiles": [
+    "sem5/java-interview",
+    "sem5/README.md",
     "README.md",
     "5sem/Welcome.md",
     "5sem",
@@ -287,8 +291,6 @@
     "java-interview/css.md",
     "java-interview/core.md",
     "java-interview/concurrency.md",
-    "java-interview/README.md",
-    "Универ/ДПК/Приготовление_товарной_продукции.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",

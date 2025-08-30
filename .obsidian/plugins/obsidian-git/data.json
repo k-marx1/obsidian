@@ -20,7 +20,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "",
+  "basePath": "sem5",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
