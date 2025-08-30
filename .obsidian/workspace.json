@@ -243,8 +243,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "038c6fb199a42560",
+  "active": "9f6c349b0496b3d2",
   "lastOpenFiles": [
+    "sem5/conflict-files-obsidian-git.md",
+    "sem5/sem5",
     "sem5/java-interview",
     "sem5/README.md",
     "README.md",
@@ -279,13 +281,11 @@
     "java-interview/patterns.md",
     "java-interview/oop.md",
     "java-interview/mcon.sh",
-    "java-interview/mcon.bat",
     "java-interview/log.md",
     "java-interview/kafka.md",
     "java-interview/jvm.md",
     "java-interview/jdbc.md",
     "java-interview/jcf.md",
-    "java-interview/examples/src/main/java/xyz/enhorse/example/oop/PolymorphicTicTock.java",
     "java-interview/examples/README.md",
     "java-interview/db.md",
     "java-interview/css.md",
