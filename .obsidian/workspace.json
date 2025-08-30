@@ -50,18 +50,6 @@
             }
           },
           {
-            "id": "e92349c49a5fa5b6",
-            "type": "leaf",
-            "state": {
-              "type": "ket-view",
-              "state": {
-                "file": "Ketcher/Ketcher 8-30-2025 07.41.08.ket"
-              },
-              "icon": "lucide-ghost",
-              "title": "ket-view"
-            }
-          },
-          {
             "id": "038c6fb199a42560",
             "type": "leaf",
             "state": {
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f6c349b0496b3d2",
+  "active": "79cd1ee905e7a594",
   "lastOpenFiles": [
     "sem5/conflict-files-obsidian-git.md",
     "sem5/sem5",
