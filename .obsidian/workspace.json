@@ -140,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Универ/Философия/Лекции.md"
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лекции"
+              "title": "Outline of README"
             }
           },
           {
@@ -167,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "038c6fb199a42560",
+  "active": "696e52d162055f44",
   "lastOpenFiles": [
     "Untitled.canvas",
     "README.md",
