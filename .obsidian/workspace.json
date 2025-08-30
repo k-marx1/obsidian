@@ -11,10 +11,14 @@
             "id": "038c6fb199a42560",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -188,6 +192,8 @@
   },
   "active": "038c6fb199a42560",
   "lastOpenFiles": [
+    "New Text Document.txt",
+    "New AutoHotkey Script.ahk",
     "README.md",
     "Untitled.canvas",
     "sem5/conflict-files-obsidian-git.md",
@@ -224,7 +230,6 @@
     "java-interview/reactive.md",
     "java-interview/patterns.md",
     "java-interview/oop.md",
-    "java-interview/mcon.sh",
     "java-interview/log.md",
     "java-interview/kafka.md",
     "java-interview/jvm.md",
