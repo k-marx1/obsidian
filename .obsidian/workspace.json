@@ -57,8 +57,8 @@
               "state": {
                 "file": "Ketcher/Ketcher 8-30-2025 07.41.08.ket"
               },
-              "icon": "ketcher",
-              "title": "Ketcher 8-30-2025 07.41.08"
+              "icon": "lucide-ghost",
+              "title": "ket-view"
             }
           },
           {
@@ -207,8 +207,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
