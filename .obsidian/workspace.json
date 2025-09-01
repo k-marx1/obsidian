@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cc6ea3d136a34fd",
+  "active": "bf1b0b4d0b13cb07",
   "lastOpenFiles": [
     "README.md",
     "Процессы и аппараты химической технологии/Лекции.md",
