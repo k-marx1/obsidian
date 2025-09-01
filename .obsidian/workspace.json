@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Концепции современного естествознания/Untitled.md",
+                "file": "Концепции современного естествознания/Лекции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Лекции"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Концепции современного естествознания/Untitled.md",
+                "file": "Концепции современного естествознания/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Лекции"
             }
           },
           {
@@ -190,10 +190,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf1b0b4d0b13cb07",
+  "active": "9f6c349b0496b3d2",
   "lastOpenFiles": [
-    "Концепции современного естествознания/Лекции.md",
+    "Теоретическая механика",
+    "Концепции современного естествознания/Untitled",
     "Концепции современного естествознания/Untitled.md",
+    "Концепции современного естествознания/Лекции.md",
     "conflict-files-obsidian-git.md",
     "Концепции современного естествознания",
     "README.md",
@@ -204,7 +206,6 @@
     "sem5/README.md",
     "5sem/Welcome.md",
     "5sem",
-    "Untitled",
     "Универ/ДПК/Згонник.md",
     "Ketcher/Ketcher 8-30-2025 07.41.08.ket",
     "0efdeb5e-a9ef-466c-beb2-eea86bff33c3~1.jpg",
@@ -238,7 +239,6 @@
     "java-interview/jdbc.md",
     "java-interview/jcf.md",
     "java-interview/examples/README.md",
-    "java-interview/db.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
