@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Лекции"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Лекции"
             }
           },
           {
@@ -192,8 +192,8 @@
   },
   "active": "bf1b0b4d0b13cb07",
   "lastOpenFiles": [
-    "Процессы и аппараты химической технологии/Лекции.md",
     "README.md",
+    "Процессы и аппараты химической технологии/Лекции.md",
     "Концепции современного естествознания/Лекции.md",
     "Процессы и аппараты химической технологии",
     "Теоретическая механика",
