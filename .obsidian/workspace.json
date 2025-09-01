@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Концепции современного естествознания/Лекции.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "mode": "source",
                 "source": false
               },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Концепции современного естествознания/Лекции.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,8 +192,10 @@
   },
   "active": "bf1b0b4d0b13cb07",
   "lastOpenFiles": [
-    "README.md",
     "Концепции современного естествознания/Лекции.md",
+    "Процессы и аппараты химической технологии/Лекции.md",
+    "Процессы и аппараты химической технологии",
+    "README.md",
     "Теоретическая механика",
     "Концепции современного естествознания/Untitled",
     "Концепции современного естествознания/Untitled.md",
@@ -221,7 +223,6 @@
     "java-interview/images/SQL/ntilen-function-with-partition.png",
     "java-interview/images/SQL/image.png",
     "java-interview/images/SQL",
-    "java-interview/images/Placeholder.txt",
     "java-interview/xml.md",
     "java-interview/web.md",
     "java-interview/uml.md",
