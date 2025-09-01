@@ -155,8 +155,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -170,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "038c6fb199a42560",
+  "active": "3cc6ea3d136a34fd",
   "lastOpenFiles": [
     "README.md",
     "Концепции современного естествознания/Лекции.md",
