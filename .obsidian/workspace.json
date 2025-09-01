@@ -11,14 +11,17 @@
             "id": "038c6fb199a42560",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -193,12 +196,12 @@
   "active": "038c6fb199a42560",
   "lastOpenFiles": [
     "Концепции современного естествознания/Лекции.md",
+    "Untitled.canvas",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Концепции современного естествознания",
     "New Text Document.txt",
     "New AutoHotkey Script.ahk",
-    "Untitled.canvas",
     "sem5/conflict-files-obsidian-git.md",
     "sem5/sem5",
     "sem5/java-interview",
@@ -238,7 +241,6 @@
     "java-interview/jcf.md",
     "java-interview/examples/README.md",
     "java-interview/db.md",
-    "java-interview/css.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
