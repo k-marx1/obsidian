@@ -11,14 +11,17 @@
             "id": "038c6fb199a42560",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Концепции современного естествознания/Лекции.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Лекции"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -190,11 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cc6ea3d136a34fd",
+  "active": "038c6fb199a42560",
   "lastOpenFiles": [
-    "README.md",
     "Концепции современного естествознания/Лекции.md",
     "Untitled.canvas",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Концепции современного естествознания",
     "New Text Document.txt",
