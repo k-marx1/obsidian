@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +190,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "038c6fb199a42560",
+  "active": "79cd1ee905e7a594",
   "lastOpenFiles": [
-    "Концепции современного естествознания/Лекции.md",
+    "conflict-files-obsidian-git.md",
     "README.md",
+    "Концепции современного естествознания/Лекции.md",
     "Концепции современного естествознания",
     "New Text Document.txt",
     "New AutoHotkey Script.ahk",
@@ -238,7 +239,6 @@
     "java-interview/examples/README.md",
     "java-interview/db.md",
     "java-interview/css.md",
-    "java-interview/core.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
