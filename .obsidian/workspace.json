@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "97443ff056e9abac",
+        "id": "f1f75c6c8463a04b",
         "type": "tabs",
         "children": [
           {
-            "id": "bf1b0b4d0b13cb07",
+            "id": "038c6fb199a42560",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Практика.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практика"
+              "title": "README"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Практика.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Практика"
+              "title": "Outline of README"
             }
           },
           {
@@ -174,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,19 +190,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf1b0b4d0b13cb07",
+  "active": "038c6fb199a42560",
   "lastOpenFiles": [
+    "Процессы и аппараты химической технологии/Практика.md",
     "Процессы и аппараты химической технологии/Лекции.md",
     "README.md",
-    "Процессы и аппараты химической технологии/Практика.md",
     "Концепции современного естествознания/Лекции.md",
     "Процессы и аппараты химической технологии",
-    "Теоретическая механика",
-    "Концепции современного естествознания/Untitled",
-    "Концепции современного естествознания/Untitled.md",
+    "Untitled.canvas",
     "conflict-files-obsidian-git.md",
     "Концепции современного естествознания",
-    "Untitled.canvas",
+    "New Text Document.txt",
+    "New AutoHotkey Script.ahk",
     "sem5/conflict-files-obsidian-git.md",
     "sem5/sem5",
     "sem5/java-interview",
@@ -239,6 +238,7 @@
     "java-interview/jvm.md",
     "java-interview/jdbc.md",
     "java-interview/jcf.md",
+    "java-interview/examples/README.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
