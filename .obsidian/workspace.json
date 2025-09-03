@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Экология/Практика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Практика"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "bf1b0b4d0b13cb07",
   "lastOpenFiles": [
-    "Процессы и аппараты химической технологии/Практика.md",
     "README.md",
+    "Процессы и аппараты химической технологии/Практика.md",
     "Экология/Практика.md",
     "Экология",
     "conflict-files-obsidian-git.md",
