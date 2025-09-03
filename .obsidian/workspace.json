@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экология/Практика.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практика"
+              "title": "README"
             }
           }
         ]
@@ -192,9 +192,11 @@
   },
   "active": "bf1b0b4d0b13cb07",
   "lastOpenFiles": [
+    "Метрология и стандартизация/Untitled.md",
+    "Экология/Практика.md",
+    "Метрология и стандартизация",
     "README.md",
     "Процессы и аппараты химической технологии/Практика.md",
-    "Экология/Практика.md",
     "Экология",
     "conflict-files-obsidian-git.md",
     "Процессы и аппараты химической технологии/images/Pasted image 20250902132350.png",
@@ -215,7 +217,6 @@
     "sem5/java-interview",
     "sem5/README.md",
     "5sem/Welcome.md",
-    "5sem",
     "Универ/ДПК/Згонник.md",
     "0efdeb5e-a9ef-466c-beb2-eea86bff33c3~1.jpg",
     "java-interview/done.md",
@@ -238,7 +239,6 @@
     "java-interview/log.md",
     "java-interview/kafka.md",
     "java-interview/jvm.md",
-    "java-interview/jdbc.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
