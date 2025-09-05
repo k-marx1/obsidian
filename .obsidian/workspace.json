@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Практика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекции"
+              "title": "Практика"
             }
           }
         ],
@@ -217,11 +217,12 @@
   },
   "active": "5e62aa045d2288d1",
   "lastOpenFiles": [
+    "Процессы и аппараты химической технологии/Лекции.md",
+    "Техническая термодинамика в химической технологии/Практика.md",
     "Pasted image 20250905132213.png",
     "Экология/images/Pasted image 20250903135128.png",
     "Экология/images/Pasted image 20250905115102.png",
     "Экология/images",
-    "Процессы и аппараты химической технологии/Лекции.md",
     "Процессы и аппараты химической технологии/Практика.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Экология/Лекции.md",
@@ -253,7 +254,6 @@
     "java-interview/images/SQL/row_number-sql-rank-function.png",
     "java-interview/images/SQL/row_number-example.png",
     "java-interview/images/SQL/ranksql-rank-function.png",
-    "java-interview/images/SQL/output-of-rank-function-for-similar-values.png",
     "java-interview/xml.md",
     "java-interview/web.md",
     "java-interview/uml.md",
