@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экология/Лекции.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "mode": "source",
                 "source": false
               },
@@ -192,9 +192,9 @@
   },
   "active": "9c549d35e1e9314a",
   "lastOpenFiles": [
+    "Экология/Лекции.md",
     "Pasted image 20250905115102.png",
     "Pasted image 20250903135128.png",
-    "Экология/Лекции.md",
     "README.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Метрология и стандартизация/Практика.md",
@@ -228,7 +228,6 @@
     "java-interview/images/SQL/row_number-example.png",
     "java-interview/images/SQL/ranksql-rank-function.png",
     "java-interview/images/SQL/output-of-rank-function-for-similar-values.png",
-    "java-interview/images/SQL/output-of-dense_rank-function.png",
     "java-interview/xml.md",
     "java-interview/web.md",
     "java-interview/uml.md",
