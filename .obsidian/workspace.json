@@ -11,6 +11,30 @@
             "id": "9c549d35e1e9314a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Экология/images/Pasted image 20250903135128.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250903135128"
+            }
+          },
+          {
+            "id": "05920ef6fe9190a7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Экология/images/Pasted image 20250905115102.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250905115102"
+            }
+          },
+          {
+            "id": "5e62aa045d2288d1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Процессы и аппараты химической технологии/Лекции.md",
@@ -21,7 +45,8 @@
               "title": "Лекции"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,15 +215,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c549d35e1e9314a",
+  "active": "5e62aa045d2288d1",
   "lastOpenFiles": [
-    "Процессы и аппараты химической технологии/Практика.md",
+    "Экология/images/Pasted image 20250903135128.png",
+    "Экология/images/Pasted image 20250905115102.png",
+    "Экология/images",
     "Процессы и аппараты химической технологии/Лекции.md",
-    "Экология/Лекции.md",
-    "Pasted image 20250905115102.png",
-    "Pasted image 20250903135128.png",
-    "README.md",
+    "Процессы и аппараты химической технологии/Практика.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
+    "Экология/Лекции.md",
+    "README.md",
     "Метрология и стандартизация/Практика.md",
     "Техническая термодинамика в химической технологии",
     "Экология/Практика.md",
@@ -218,7 +244,6 @@
     "Концепции современного естествознания",
     "Untitled.canvas",
     "sem5/conflict-files-obsidian-git.md",
-    "sem5/sem5",
     "sem5/README.md",
     "5sem/Welcome.md",
     "Универ/ДПК/Згонник.md",
