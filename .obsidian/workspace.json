@@ -11,12 +11,14 @@
             "id": "bd0f280136bb1e0f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Экология/images/Pasted image 20250905132213.png"
+                "file": "Экология/Практика.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250905132213"
+              "icon": "lucide-file",
+              "title": "Практика"
             }
           }
         ]
@@ -188,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f6c349b0496b3d2",
+  "active": "bd0f280136bb1e0f",
   "lastOpenFiles": [
+    "Экология/images/Pasted image 20250905132213.png",
     "Экология/Лекции.md",
     "README.md",
     "Экология/images/Pasted image 20250905115102.png",
@@ -211,7 +214,6 @@
     "Метрология и стандартизация",
     "Концепции современного естествознания/Лекции.md",
     "Концепции современного естествознания",
-    "Экология/images/Pasted image 20250905132213.png",
     "Теормех/Теормех.md",
     "Теормех/Лекции.md",
     "^Hello 2.md",
