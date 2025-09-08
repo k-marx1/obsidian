@@ -2,9 +2,17 @@
 	"nodes":[
 		{"id":"6e353ff5b0b89eca","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Качество"},
 		{"id":"2ea632f9e2c37f64","x":-500,"y":-30,"width":330,"height":210,"type":"text","text":"**Метрология**\n\nПолучение информации о фактическом состоянии объекта (получение первичной информации)"},
-		{"id":"9e1601df38a664b0","type":"text","text":"Сертификация\n(подтверждение соот)","x":-125,"y":200,"width":250,"height":60},
-		{"id":"ad2f3a4ba600bb22","type":"text","text":"","x":-125,"y":-180,"width":250,"height":60},
-		{"id":"7679c23a06e6c3f5","type":"text","text":"Стандартизация\n\nУстановление требования","x":200,"y":-30,"width":250,"height":210}
+		{"id":"9e1601df38a664b0","type":"text","text":"Сертификация\n(подтверждение соответсвия)","x":-125,"y":200,"width":250,"height":120},
+		{"id":"ad2f3a4ba600bb22","type":"text","text":"Получение количесвенной информации, необходимой для кстановления требований","x":-125,"y":-340,"width":250,"height":220},
+		{"id":"7679c23a06e6c3f5","type":"text","text":"Стандартизация\n\nУстановление требования","x":200,"y":-30,"width":250,"height":210},
+		{"id":"1fdc90e06013bd81","x":-125,"y":400,"width":250,"height":300,"type":"text","text":"Сопостовление полученной информации с заранее установленными требованиями (получение вторичной информации)"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"84f0a01a693ac4a1","fromNode":"6e353ff5b0b89eca","fromSide":"left","toNode":"2ea632f9e2c37f64","toSide":"right"},
+		{"id":"38c9f5154aea6dcd","fromNode":"6e353ff5b0b89eca","fromSide":"right","toNode":"7679c23a06e6c3f5","toSide":"left"},
+		{"id":"95740961768f78a7","fromNode":"6e353ff5b0b89eca","fromSide":"bottom","toNode":"9e1601df38a664b0","toSide":"top"},
+		{"id":"2649fdc46b9994f5","fromNode":"9e1601df38a664b0","fromSide":"bottom","toNode":"1fdc90e06013bd81","toSide":"top"},
+		{"id":"d2b161d04f2e43a9","fromNode":"2ea632f9e2c37f64","fromSide":"top","toNode":"ad2f3a4ba600bb22","toSide":"left"},
+		{"id":"057b9e83679003d8","fromNode":"ad2f3a4ba600bb22","fromSide":"right","toNode":"7679c23a06e6c3f5","toSide":"top"}
+	]
 }
