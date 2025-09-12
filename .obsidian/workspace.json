@@ -39,12 +39,14 @@
             "id": "496574e30e2d673e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ЛекцииПиАХТ.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ЛекцииПиАХТ"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -217,13 +219,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f6c349b0496b3d2",
+  "active": "496574e30e2d673e",
   "lastOpenFiles": [
+    "ЛекцииТермодинамика.pdf",
     "README.md",
+    "ЛекцииПиАХТ.pdf",
     "Процессы и аппараты химической технологии/Лекции.md",
     "Процессы и аппараты химической технологии/Практика.md",
-    "ЛекцииТермодинамика.pdf",
-    "ЛекцииПиАХТ.pdf",
     "Экология/Лекции.md",
     "conflict-files-obsidian-git.md",
     "Экология/Практика.md",
