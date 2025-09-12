@@ -39,15 +39,14 @@
             "id": "496574e30e2d673e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Экология/Лекции.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: app.json"
+              "icon": "lucide-file",
+              "title": "Лекции"
             }
           }
         ],
@@ -220,13 +219,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79cd1ee905e7a594",
+  "active": "496574e30e2d673e",
   "lastOpenFiles": [
     "ЛекцииТермодинамика.pdf",
+    "Экология/Лекции.md",
     "ЛекцииПиАХТ.pdf",
     "README.md",
     "conflict-files-obsidian-git.md",
-    "Экология/Лекции.md",
     "Экология/Практика.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Техническая термодинамика в химической технологии/Практика.md",
