@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Техническая термодинамика в химической технологии/Практика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Практика"
             }
           }
         ],
@@ -219,11 +219,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79cd1ee905e7a594",
+  "active": "496574e30e2d673e",
   "lastOpenFiles": [
+    "README.md",
     "ЛекцииТермодинамика.pdf",
     "ЛекцииПиАХТ.pdf",
-    "README.md",
     "Процессы и аппараты химической технологии/Лекции.md",
     "Процессы и аппараты химической технологии/Практика.md",
     "Экология/Лекции.md",
