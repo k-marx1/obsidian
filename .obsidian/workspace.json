@@ -39,12 +39,14 @@
             "id": "496574e30e2d673e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ЛекцииПиАХТ.pdf"
+                "file": "Процессы и аппараты химической технологии/Практика.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ЛекцииПиАХТ"
+              "icon": "lucide-file",
+              "title": "Практика"
             }
           }
         ],
@@ -219,11 +221,11 @@
   },
   "active": "496574e30e2d673e",
   "lastOpenFiles": [
+    "ЛекцииПиАХТ.pdf",
     "Процессы и аппараты химической технологии/Практика.md",
     "ЛекцииТермодинамика.pdf",
     "Процессы и аппараты химической технологии/Лекции.md",
     "Экология/Лекции.md",
-    "ЛекцииПиАХТ.pdf",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Экология/Практика.md",
