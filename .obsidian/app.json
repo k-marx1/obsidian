@@ -10,5 +10,6 @@
   "spellcheckDictionary": [
     "полуполным"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true
 }
