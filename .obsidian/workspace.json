@@ -121,12 +121,14 @@
             "id": "069e26c3a2f32ffc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-22 13.39.06.excalidraw.md"
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-22 13.39.06.excalidraw"
+              "icon": "lucide-file",
+              "title": "Лекции"
             }
           },
           {
@@ -325,8 +327,8 @@
   },
   "active": "069e26c3a2f32ffc",
   "lastOpenFiles": [
-    "Процессы и аппараты химической технологии/Лекции.md",
     "Excalidraw/Drawing 2025-09-22 13.39.06.excalidraw.md",
+    "Процессы и аппараты химической технологии/Лекции.md",
     "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 13.01.33.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 12.56.57.excalidraw.md",
