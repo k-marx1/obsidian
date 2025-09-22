@@ -90,6 +90,18 @@
             }
           },
           {
+            "id": "17a660cf300cb308",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-22 12.56.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-22 12.56.57.excalidraw"
+            }
+          },
+          {
             "id": "8ab9f38e2de7fbc3",
             "type": "leaf",
             "state": {
@@ -114,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -283,10 +295,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a99bd56ff397421",
+  "active": "17a660cf300cb308",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
     "Процессы и аппараты химической технологии/Лекции.md",
+    "Excalidraw/Drawing 2025-09-22 12.56.57.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
     "Техническая термодинамика в химической технологии/Практика.md",
     "Excalidraw",
     "Процессы и аппараты химической технологии/images/Pasted image 20250902132301.png",
@@ -332,7 +345,6 @@
     "java-interview/done.md",
     "java-interview/xml.md",
     "java-interview/web.md",
-    "java-interview/uml.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
