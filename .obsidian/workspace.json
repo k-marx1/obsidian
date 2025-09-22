@@ -118,6 +118,18 @@
             }
           },
           {
+            "id": "069e26c3a2f32ffc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-22 13.39.06.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-22 13.39.06.excalidraw"
+            }
+          },
+          {
             "id": "8ab9f38e2de7fbc3",
             "type": "leaf",
             "state": {
@@ -142,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -311,10 +323,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a2d7126a267b696",
+  "active": "069e26c3a2f32ffc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-09-22 13.01.33.excalidraw.md",
     "Процессы и аппараты химической технологии/Лекции.md",
+    "Excalidraw/Drawing 2025-09-22 13.39.06.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-22 13.01.33.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 12.56.57.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
     "Техническая термодинамика в химической технологии/Практика.md",
@@ -360,7 +373,6 @@
     "5sem/Welcome.md",
     "Универ/ДПК/Згонник.md",
     "java-interview/done.md",
-    "java-interview/xml.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
