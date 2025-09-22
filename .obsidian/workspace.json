@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "7a99bd56ff397421",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-22 10.03.32.excalidraw"
+            }
+          },
+          {
             "id": "8ab9f38e2de7fbc3",
             "type": "leaf",
             "state": {
@@ -100,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -269,8 +281,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e19d12362bf2511",
+  "active": "7a99bd56ff397421",
   "lastOpenFiles": [
+    "Техническая термодинамика в химической технологии/Практика.md",
+    "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
+    "Excalidraw",
     "Процессы и аппараты химической технологии/Лекции.md",
     "Процессы и аппараты химической технологии/images/Pasted image 20250902132301.png",
     "Pasted image 20250919130539.png",
@@ -291,7 +306,6 @@
     "README.md",
     "ЛекцииТермодинамика.pdf",
     "ЛекцииПиАХТ.pdf",
-    "Техническая термодинамика в химической технологии/Практика.md",
     "Концепции современного естествознания/Практика.md",
     "Концепции современного естествознания/Лекции.md",
     "Химия/Лекции.md",
@@ -300,7 +314,6 @@
     "Метрология и стандартизация/images",
     "Untitled.canvas",
     "Excalidraw/Drawing 2025-09-08 09.21.02.excalidraw.md",
-    "Excalidraw",
     "Экология/images/Pasted image 20250905132213.png",
     "Экология/images/Pasted image 20250905115102.png",
     "Экология/images",
