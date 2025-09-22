@@ -93,12 +93,14 @@
             "id": "17a660cf300cb308",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-22 12.56.57.excalidraw.md"
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-22 12.56.57.excalidraw"
+              "icon": "lucide-file",
+              "title": "Лекции"
             }
           },
           {
@@ -297,8 +299,8 @@
   },
   "active": "17a660cf300cb308",
   "lastOpenFiles": [
-    "Процессы и аппараты химической технологии/Лекции.md",
     "Excalidraw/Drawing 2025-09-22 12.56.57.excalidraw.md",
+    "Процессы и аппараты химической технологии/Лекции.md",
     "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
     "Техническая термодинамика в химической технологии/Практика.md",
     "Excalidraw",
