@@ -275,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Экология/Практика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Практика"
             }
           },
           {
@@ -305,7 +305,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -325,7 +325,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "069e26c3a2f32ffc",
+  "active": "3cc6ea3d136a34fd",
   "lastOpenFiles": [
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Процессы и аппараты химической технологии/Практика.md",
