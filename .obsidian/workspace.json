@@ -39,14 +39,12 @@
             "id": "496574e30e2d673e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
-                "mode": "source",
-                "source": false
+                "file": "Процессы и аппараты химической технологии/images/Pasted image 20250917134830 1.png"
               },
-              "icon": "lucide-file",
-              "title": "Лекции"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250917134830 1"
             }
           }
         ],
@@ -219,19 +217,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "496574e30e2d673e",
+  "active": "9f6c349b0496b3d2",
   "lastOpenFiles": [
+    "Процессы и аппараты химической технологии/Лекции.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Химия/Практика.md",
     "Техническая термодинамика в химической технологии/images/Pasted image 20250917134830.png",
     "Техническая термодинамика в химической технологии/images",
     "Процессы и аппараты химической технологии/images/Pasted image 20250919130539.png",
     "Процессы и аппараты химической технологии/images/Pasted image 20250917134830.png",
-    "Pasted image 20250926114918.png",
-    "Pasted image 20250926112342.png",
-    "Pasted image 20250926112339.png",
-    "Pasted image 20250919130539.png",
-    "Pasted image 20250917134830.png",
+    "Процессы и аппараты химической технологии/images/Pasted image 20250926114918.png",
+    "Процессы и аппараты химической технологии/images/Pasted image 20250926112342.png",
+    "Процессы и аппараты химической технологии/images/Pasted image 20250926112339.png",
+    "Процессы и аппараты химической технологии/images/Pasted image 20250919130539 1.png",
+    "Процессы и аппараты химической технологии/images/Pasted image 20250917134830 1.png",
     "Excalidraw/Drawing 2025-09-22 13.39.06.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 13.01.33.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
@@ -241,7 +240,6 @@
     "README.md",
     "ЛекцииТермодинамика.pdf",
     "ЛекцииПиАХТ.pdf",
-    "Процессы и аппараты химической технологии/Лекции.md",
     "Процессы и аппараты химической технологии/Практика.md",
     "Экология/Лекции.md",
     "conflict-files-obsidian-git.md",
