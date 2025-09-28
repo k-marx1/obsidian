@@ -39,12 +39,14 @@
             "id": "496574e30e2d673e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Процессы и аппараты химической технологии/images/Pasted image 20250917134830 1.png"
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250917134830 1"
+              "icon": "lucide-file",
+              "title": "Лекции"
             }
           }
         ],
@@ -217,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f6c349b0496b3d2",
+  "active": "496574e30e2d673e",
   "lastOpenFiles": [
+    "Процессы и аппараты химической технологии/images/Pasted image 20250917134830 1.png",
     "Процессы и аппараты химической технологии/Лекции.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Химия/Практика.md",
@@ -230,7 +233,6 @@
     "Процессы и аппараты химической технологии/images/Pasted image 20250926112342.png",
     "Процессы и аппараты химической технологии/images/Pasted image 20250926112339.png",
     "Процессы и аппараты химической технологии/images/Pasted image 20250919130539 1.png",
-    "Процессы и аппараты химической технологии/images/Pasted image 20250917134830 1.png",
     "Excalidraw/Drawing 2025-09-22 13.39.06.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 13.01.33.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
@@ -266,7 +268,6 @@
     "sem5/conflict-files-obsidian-git.md",
     "sem5/README.md",
     "5sem/Welcome.md",
-    "Универ/ДПК/Згонник.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
