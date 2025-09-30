@@ -11,14 +11,14 @@
             "id": "dcb277d6d95d6a2b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Процессы и аппараты химической технологии/Практика.md",
-                "bFile": "Процессы и аппараты химической технологии/Практика.md",
-                "aRef": ""
+                "file": "Экология/Практика.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Практика"
+              "icon": "lucide-file",
+              "title": "Практика"
             }
           },
           {
