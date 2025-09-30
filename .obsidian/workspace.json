@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Теоретическая механика/Практика.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практика"
+              "title": "README"
             }
           }
         ],
@@ -205,16 +205,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79cd1ee905e7a594",
+  "active": "42e7229f910a3618",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "images/Pasted image 20250929130626.png",
+    "images/Pasted image 20250929131342.png",
     "Теоретическая механика/Практика.md",
-    "Pasted image 20250930105700.png",
-    "Pasted image 20250930075607.png",
+    "images",
+    "conflict-files-obsidian-git.md",
+    "images/Pasted image 20250930105700.png",
+    "images/Pasted image 20250930075607.png",
     "Техническая термодинамика в химической технологии/Лекции.md",
-    "Pasted image 20250929130626.png",
-    "Pasted image 20250929131342.png",
-    "Pasted image 20250930075340.png",
+    "images/Pasted image 20250930075340.png",
     "Процессы и аппараты химической технологии/images/Pasted image 20250926112339.png",
     "Процессы и аппараты химической технологии/images/Pasted image 20250926114918.png",
     "Процессы и аппараты химической технологии/images/Pasted image 20250926112342.png",
@@ -248,7 +249,6 @@
     "Экология/images",
     "Экология",
     "Техническая термодинамика в химической технологии",
-    "Процессы и аппараты химической технологии/images",
     "Теормех/Теормех.md",
     "Теормех/Лекции.md",
     "^Hello 2.md",
