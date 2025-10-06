@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "f1f75c6c8463a04b",
+        "id": "13881a0208279db5",
         "type": "tabs",
         "children": [
           {
-            "id": "038c6fb199a42560",
+            "id": "dcb277d6d95d6a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Экология/Практика.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Практика"
+            }
+          },
+          {
+            "id": "6e55401d7a1fab03",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +36,47 @@
             }
           },
           {
-            "id": "50dea336f2862e9c",
+            "id": "19ba05fd21f86bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекции"
+            }
+          },
+          {
+            "id": "42e7229f910a3618",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "Экология/Практика.md",
+                "bFile": "Экология/Практика.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Практика"
+            }
+          },
+          {
+            "id": "e1158cda1eaa882d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "41651c83d7ba7f94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -93,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 224.5
   },
   "right": {
     "id": "f5f5ad3ee8295b65",
@@ -109,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Универ/Философия/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Лекции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Универ/Химическая технология неорганических веществ/Лекции/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Лекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,11 +239,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,56 +259,56 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50dea336f2862e9c",
+  "active": "41651c83d7ba7f94",
   "lastOpenFiles": [
     "Pasted image 20251006135203.png",
     "Pasted image 20251006131915.png",
     "Pasted image 20251006131715.png",
     "Pasted image 20251006130628.png",
     "Pasted image 20251006125919.png",
-    "Процессы и аппараты химической технологии/Практика.md",
-    "Процессы и аппараты химической технологии/Лекции.md",
     "conflict-files-obsidian-git.md",
+    "Процессы и аппараты химической технологии/контрольная.md",
+    "Процессы и аппараты химической технологии.zip",
+    "Pasted image 20251001130048.png",
+    "Процессы и аппараты химической технологии/Лекции.md",
+    "Экология/Практика.md",
+    "Концепции современного естествознания/Лекции.md",
+    "Концепции современного естествознания/Практика.md",
+    "Метрология и стандартизация/Практика.md",
+    "Метрология и стандартизация/Лекции.md",
+    "Процессы и аппараты химической технологии/Практика.md",
+    "Техническая термодинамика в химической технологии/Практика.md",
+    "Теоретическая механика/Практика.md",
+    "Техническая термодинамика в химической технологии/Лекции.md",
+    "Экология/Лекции.md",
+    "Химия/Лекции.md",
+    "Химия/Практика.md",
+    "README.md",
+    "images/Pasted image 20250929130626.png",
+    "images/Pasted image 20250929131342.png",
+    "images",
     "images/Pasted image 20250930105700.png",
     "images/Pasted image 20250930075607.png",
     "images/Pasted image 20250930075340.png",
-    "images/Pasted image 20250929131342.png",
-    "images/Pasted image 20250929130626.png",
-    "images",
-    "Процессы и аппараты химической технологии/контрольная.md",
-    "Процессы и аппараты химической технологии.zip",
-    "Процессы и аппараты химической технологии.zip.d379z9.part",
-    "Техническая термодинамика в химической технологии/Лекции.md",
-    "Техническая термодинамика в химической технологии/Практика.md",
-    "Pasted image 20250929130626.png",
-    "Теоретическая механика/Практика.md",
-    "Теоретическая механика",
-    "Метрология и стандартизация/Лекции.md",
-    "Метрология и стандартизация/Практика.md",
-    "Экология/Практика.md",
-    "Экология/Лекции.md",
-    "Экология/images",
-    "Экология",
-    "Химия/Практика.md",
-    "Химия/Лекции.md",
-    "Химия",
-    "Техническая термодинамика в химической технологии/images",
-    "Техническая термодинамика в химической технологии",
-    "Метрология и стандартизация/images/Untitled.canvas",
-    "Метрология и стандартизация/images",
-    "Концепции современного естествознания/Практика.md",
     "Excalidraw/Drawing 2025-09-22 13.39.06.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 13.01.33.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 12.56.57.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
-    "README.md",
-    "Концепции современного естествознания/Лекции.md",
+    "Excalidraw",
+    "Техническая термодинамика в химической технологии/images",
+    "ЛекцииТермодинамика.pdf",
+    "ЛекцииПиАХТ.pdf",
+    "Химия",
+    "Метрология и стандартизация/images/Untitled.canvas",
+    "Метрология и стандартизация/images",
     "Untitled.canvas",
+    "Excalidraw/Drawing 2025-09-08 09.21.02.excalidraw.md",
+    "Экология/images",
+    "Экология",
+    "Теормех/Теормех.md",
+    "Теормех/Лекции.md",
+    "^Hello 2.md",
     "sem5/conflict-files-obsidian-git.md",
-    "sem5/README.md",
-    "5sem/Welcome.md",
-    "Универ/ДПК/Згонник.md",
-    "java-interview/done.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
