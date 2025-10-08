@@ -38,3 +38,9 @@ $$
 $$
 n=1
 $$
+$$
+q=A=RT \ln \dfrac{V_{2}}{V_{1}}=RT \ln \dfrac{p_{1}}{p_{2}}=p_{1}v_{1}\ln \dfrac{p_{1}}{p_{2}}=p_{2}v_{2}\ln \dfrac{v_{2}}{v_{1}}
+$$
+$$
+\Delta S=R\ln \dfrac{v_{2}}{v_{1}}
+$$
