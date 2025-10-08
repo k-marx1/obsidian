@@ -6,6 +6,7 @@ $$
 $$
 \begin{align}
 Tv^{k-1}&=const \\
-
+pv^k&=const \\
+Tp^{(1-k)/k}&=const
 \end{align}
 $$
