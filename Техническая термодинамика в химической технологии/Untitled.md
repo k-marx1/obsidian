@@ -21,6 +21,7 @@ $$
 \dfrac{{c-c_{p}}}{c-c_{v}}=n
 $$
 $$
-n=\dfrac{\dfrac{\Delta u}{q}\cdot k-1}{\dfrac{\Delta u}{q}-1}\tag{!}
+n=\dfrac{\dfrac{\Delta u}{q}\cdot k-1}{\dfrac{\Delta u}{q}-1}\
 $$
 
+# Изохорный
