@@ -25,3 +25,12 @@ n=\dfrac{\dfrac{\Delta u}{q}\cdot k-1}{\dfrac{\Delta u}{q}-1}\
 $$
 
 # Изохорный
+$$
+n=\infty
+$$$$
+q=\Delta u=c_{v}(T_{2}-T_1)
+$$
+$$
+\Delta S=c_{v}\ln \dfrac{T_{2}}{T_{1}}
+$$
+
