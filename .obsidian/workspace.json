@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техническая термодинамика в химической технологии/shpora.md",
+                "file": "Техническая термодинамика в химической технологии/draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shpora"
+              "title": "draft"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техническая термодинамика в химической технологии/shpora.md",
+                "file": "Техническая термодинамика в химической технологии/draft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of shpora"
+              "title": "Outline of draft"
             }
           },
           {
@@ -207,8 +207,9 @@
   },
   "active": "50dea336f2862e9c",
   "lastOpenFiles": [
-    "Техническая термодинамика в химической технологии/draft.md",
+    "Pasted image 20251014182703.png",
     "Техническая термодинамика в химической технологии/shpora.md",
+    "Техническая термодинамика в химической технологии/draft.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Процессы и аппараты химической технологии/Практика.md",
     "Теоретическая механика/Практика.md",
@@ -254,7 +255,6 @@
     "Untitled.canvas",
     "sem5/conflict-files-obsidian-git.md",
     "sem5/README.md",
-    "5sem/Welcome.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Универ/Философия/средн.canvas",
