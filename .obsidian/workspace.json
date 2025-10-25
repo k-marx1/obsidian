@@ -187,12 +187,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50dea336f2862e9c",
+  "active": "79cd1ee905e7a594",
   "lastOpenFiles": [
+    "Техническая термодинамика в химической технологии/~$Лекции.docx",
     "Техническая термодинамика в химической технологии/Лекции.docx",
     "Концепции современного естествознания/Лекции.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
@@ -251,7 +251,6 @@
     "Экология",
     "Химия",
     "Техническая термодинамика в химической технологии/images",
-    "Техническая термодинамика в химической технологии",
     "Excalidraw/Drawing 2025-09-22 13.39.06.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 13.01.33.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 12.56.57.excalidraw.md",
