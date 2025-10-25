@@ -25,12 +25,14 @@
             "id": "50dea336f2862e9c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250902132301.png"
+                "file": "Экология/Практика.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250902132301"
+              "icon": "lucide-file",
+              "title": "Практика"
             }
           }
         ],
@@ -205,12 +207,12 @@
   },
   "active": "50dea336f2862e9c",
   "lastOpenFiles": [
+    "Экология/Лекции.md",
+    "Техническая термодинамика в химической технологии/shpora.md",
+    "images/Pasted image 20250902132301.png",
     "Процессы и аппараты химической технологии/контрольная.md",
     "images/Pasted image 20250903135128.png",
-    "Техническая термодинамика в химической технологии/shpora.md",
     "Техническая термодинамика в химической технологии/draft.md",
-    "Экология/Лекции.md",
-    "images/Pasted image 20250902132301.png",
     "images/Untitled.canvas",
     "images/60d1eb52-10d7-4760-863b-1fbc770ad16d~1.jpg",
     "images/Pasted image 20250930075607.png",
