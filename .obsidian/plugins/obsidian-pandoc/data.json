@@ -10,6 +10,6 @@
   "pandoc": null,
   "pdflatex": null,
   "outputFolder": null,
-  "extraArguments": "--pdf-engine=xelatex -V mainfont=\"Arial\"\n",
+  "extraArguments": "\n",
   "exportFrom": "html"
 }
