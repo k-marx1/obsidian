@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "696e52d162055f44",
+  "active": "50dea336f2862e9c",
   "lastOpenFiles": [
     "Концепции современного естествознания/Лекции.md",
     "Концепции современного естествознания/Практика.md",
