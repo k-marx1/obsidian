@@ -10,6 +10,6 @@
   "pandoc": null,
   "pdflatex": null,
   "outputFolder": null,
-  "extraArguments": "pandoc file.md -o file.pdf --pdf-engine=xelatex -V mainfont=\"DejaVu Serif\"\n",
+  "extraArguments": "--pdf-engine=xelatex -V mainfont=\"DejaVuSerif\"\n",
   "exportFrom": "html"
 }
