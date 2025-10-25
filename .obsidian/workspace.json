@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Концепции современного естествознания/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Лекции.md",
                 "mode": "source",
                 "source": false
               },
@@ -143,7 +143,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экология/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -205,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50dea336f2862e9c",
+  "active": "696e52d162055f44",
   "lastOpenFiles": [
+    "Концепции современного естествознания/Лекции.md",
     "Концепции современного естествознания/Практика.md",
     "Метрология и стандартизация/Лекции.md",
     "Метрология и стандартизация/Практика.md",
@@ -251,7 +254,6 @@
     "Excalidraw/Drawing 2025-09-22 13.01.33.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 12.56.57.excalidraw.md",
     "Excalidraw/Drawing 2025-09-22 10.03.32.excalidraw.md",
-    "Концепции современного естествознания/Лекции.md",
     "Untitled.canvas",
     "sem5/conflict-files-obsidian-git.md",
     "Untitled 2.canvas",
