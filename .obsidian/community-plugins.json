@@ -7,5 +7,6 @@
   "automatic-table-of-contents",
   "obsidian-functionplot",
   "obsidian-plugin-toc",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-pandoc"
 ]
