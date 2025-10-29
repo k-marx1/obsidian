@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Экология/Практика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекции"
+              "title": "Практика"
             }
           }
         ]
@@ -192,10 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f6c349b0496b3d2",
+  "active": "038c6fb199a42560",
   "lastOpenFiles": [
-    "Теоретическая механика/Практика.md",
+    "Экология/Лекции.md",
     "Теоретическая механика/Untitled.md",
+    "Теоретическая механика/Практика.md",
     "Процессы и аппараты химической технологии/Лекции.md",
     "images/a2715cf9-9f1d-40ef-a569-23da5473c508~1.jpg",
     "Экология/images/Pasted image 20250926114918.png",
@@ -233,7 +234,6 @@
     "Химия/Лекции.md",
     "Химия/Практика.md",
     "Экология/Практика.md",
-    "Экология/Лекции.md",
     "images/Untitled.canvas",
     "README.md",
     "conflict-files-obsidian-git.md",
