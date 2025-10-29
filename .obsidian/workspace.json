@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экология/Практика.md",
+                "file": "Техническая термодинамика в химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Практика"
+              "title": "Outline of Лекции"
             }
           },
           {
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 385.5
   },
   "left-ribbon": {
     "hiddenItems": {
