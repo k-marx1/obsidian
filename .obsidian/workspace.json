@@ -11,10 +11,14 @@
             "id": "89982ed84a6047d7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Техническая термодинамика в химической технологии/Лекции.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Лекции"
             }
           }
         ]
@@ -166,5 +170,8 @@
     }
   },
   "active": "89982ed84a6047d7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Техническая термодинамика в химической технологии/Практика.md",
+    "Техническая термодинамика в химической технологии/Лекции.md"
+  ]
 }
