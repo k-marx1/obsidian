@@ -94,7 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Экология/Лекции.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Лекции"
             }
           },
           {
@@ -140,20 +141,21 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Экология/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Лекции"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +171,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89982ed84a6047d7",
+  "active": "0173bf35a7e9f882",
   "lastOpenFiles": [
     "images/Pasted image 20251107113052.png",
     "images/Pasted image 20251107112908.png",
