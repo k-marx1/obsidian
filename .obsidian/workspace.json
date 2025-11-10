@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экология/Лекции.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "mode": "source",
                 "source": false
               },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экология/Лекции.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -173,6 +173,7 @@
   },
   "active": "89982ed84a6047d7",
   "lastOpenFiles": [
+    "Экология/Лекции.md",
     "images/Pasted image 20251107114943.png",
     "images/Pasted image 20251107113824.png",
     "images/Pasted image 20251107113606.png",
@@ -184,7 +185,6 @@
     "images/Pasted image 20251107110854.png",
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Экология/Практика.md",
-    "Экология/Лекции.md",
     "Техническая термодинамика в химической технологии/Практика.md"
   ]
 }
