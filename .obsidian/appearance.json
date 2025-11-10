@@ -5,5 +5,6 @@
   "cssTheme": "AnuPpuccin",
   "enabledCssSnippets": [
     "extended-colorschemes"
-  ]
+  ],
+  "textFontFamily": "IBM Plex Sans,JetBrains Mono"
 }
