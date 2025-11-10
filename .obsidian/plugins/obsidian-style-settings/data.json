@@ -1,6 +1,6 @@
 {
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-lavender",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": true,
   "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-yellow",
   "anuppuccin-theme-settings@@anp-active-line": "anp-current-line",
@@ -8,7 +8,7 @@
   "anuppuccin-theme-settings@@anp-list-toggle": true,
   "anuppuccin-theme-settings@@anp-table-toggle": true,
   "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
-  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-atom-light",
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-solarized-light",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true
