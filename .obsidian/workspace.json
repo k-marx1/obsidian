@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Экология/Лекции.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Лекции"
             }
           },
           {
@@ -151,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89982ed84a6047d7",
+  "active": "36f95a9f7d9a191f",
   "lastOpenFiles": [
     "Уравнение неразрывности^eq1.md",
     "Процессы и аппараты химической технологии/Лекции.md",
