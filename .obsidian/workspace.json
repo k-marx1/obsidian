@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Практика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекции"
+              "title": "Практика"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Практика.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Лекции"
+              "title": "Backlinks for Практика"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Практика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Лекции"
+              "title": "Outgoing links from Практика"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Техническая термодинамика в химической технологии/Практика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лекции"
+              "title": "Outline of Практика"
             }
           }
         ],
@@ -172,10 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0173bf35a7e9f882",
+  "active": "89982ed84a6047d7",
   "lastOpenFiles": [
-    "a.md",
     "Процессы и аппараты химической технологии/Лекции.md",
+    "a.md",
     "Уравнение неразрывности^eq1.md",
     "Уравнение неразрывности.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
