@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Лекции"
             }
-          },
-          {
-            "id": "e1a2d468327394b4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1a2d468327394b4",
+  "active": "89982ed84a6047d7",
   "lastOpenFiles": [
     "Техническая термодинамика в химической технологии/Практика.md",
     "Процессы и аппараты химической технологии/Лекции.md",
