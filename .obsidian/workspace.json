@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Процессы и аппараты химической технологии/Практика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекции"
+              "title": "Практика"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Процессы и аппараты химической технологии/Практика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лекции"
+              "title": "Outline of Практика"
             }
           }
         ],
@@ -172,13 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89982ed84a6047d7",
+  "active": "c92adcc077b5ae99",
   "lastOpenFiles": [
+    "Процессы и аппараты химической технологии/Лекции.md",
     "images/Pasted image 20251117131115.png",
     "images/Pasted image 20251117130716.png",
     "images/Pasted image 20251117130450.png",
     "Техническая термодинамика в химической технологии/Практика.md",
-    "Процессы и аппараты химической технологии/Лекции.md",
     "a.md",
     "Уравнение неразрывности^eq1.md",
     "Уравнение неразрывности.md",
@@ -191,7 +191,6 @@
     "images/Pasted image 20251110132522.png",
     "images/Pasted image 20251110130435.png",
     "Экология/Лекции.md",
-    "images/Pasted image 20251107114943.png",
-    "images/Pasted image 20251107113824.png"
+    "images/Pasted image 20251107114943.png"
   ]
 }
