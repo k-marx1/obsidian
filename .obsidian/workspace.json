@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Практика.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практика"
+              "title": "Лекции"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Практика.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Практика"
+              "title": "Outline of Лекции"
             }
           }
         ],
@@ -172,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c92adcc077b5ae99",
+  "active": "89982ed84a6047d7",
   "lastOpenFiles": [
+    "Процессы и аппараты химической технологии/Практика.md",
     "Процессы и аппараты химической технологии/Лекции.md",
     "images/Pasted image 20251117131115.png",
     "images/Pasted image 20251117130716.png",
