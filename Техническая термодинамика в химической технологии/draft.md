@@ -16,7 +16,7 @@ $$
 \dfrac{p_{1}}{T_{1}}=\dfrac{p_{2}}{T_{2}}
 $$
 $$
-T_{2}=\dfrac{T_{1}p_{2}}{p_{1}}=\dfrac{\left( 10+273 \right)\cdot 600 }{730}=232,6\text{K}=-40,4^\circ C 
+T_{2}=\dfrac{T_{1}p_{2}}{p_{1}}=\dfrac{\left( 10+273 \right)\cdot 600 }{730}=232{,}6\text{K}=-40{,}4^\circ C 
 $$
 
 
