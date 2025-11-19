@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+  <title>p–V диаграмма смешанного (Зейлигера) цикла</title>
+  <desc>Схематичная p–V диаграмма: 1–2 адиабатное сжатие, 2–3 изохорный подвод теплоты, 3–4 изобарный подвод теплоты, 4–5 адиабатное расширение, 5–1 изохорный отвод.</desc>
+  <rect x="0" y="0" width="720" height="480" fill="#ffffff"/>
+
+  <!-- Axes -->
+  <g stroke="#222" stroke-width="2" fill="none">
+    <line x1="70" y1="420" x2="680" y2="420"/>
+    <line x1="70" y1="420" x2="70" y2="50"/>
+  </g>
+  <g fill="#222" font-family="Arial, Helvetica, sans-serif" font-size="16">
+    <text x="682" y="425" dy="-6">v</text>
+    <text x="62" y="52">p</text>
+  </g>
+
+  <!-- Cycle points -->
+  <!-- Coordinates chosen for schematic shape -->
+  <g id="points" fill="#000">
+    <circle cx="520" cy="420" r="3"/>
+    <circle cx="230" cy="130" r="3"/>
+    <circle cx="230" cy="70" r="3"/>
+    <circle cx="360" cy="70" r="3"/>
+    <circle cx="520" cy="220" r="3"/>
+  </g>
+
+  <!-- Curve 1-2: isentropic compression -->
+  <path d="M 520,420 C 450,300 330,180 230,130" stroke="#1f77b4" stroke-width="3" fill="none"/>
+  <!-- 2-3: constant volume up -->
+  <line x1="230" y1="130" x2="230" y2="70" stroke="#d62728" stroke-width="3"/>
+  <!-- 3-4: constant pressure right -->
+  <line x1="230" y1="70" x2="360" y2="70" stroke="#2ca02c" stroke-width="3"/>
+  <!-- 4-5: isentropic expansion -->
+  <path d="M 360,70 C 420,120 490,170 520,220" stroke="#1f77b4" stroke-width="3" fill="none"/>
+  <!-- 5-1: constant volume down -->
+  <line x1="520" y1="220" x2="520" y2="420" stroke="#d62728" stroke-width="3" stroke-dasharray="6,6"/>
+
+  <!-- Labels for points -->
+  <g fill="#111" font-family="Arial, Helvetica, sans-serif" font-size="14">
+    <text x="526" y="434">1</text>
+    <text x="214" y="128">2</text>
+    <text x="214" y="66">3</text>
+    <text x="364" y="66">4</text>
+    <text x="526" y="216">5</text>
+  </g>
+
+  <!-- Segment labels -->
+  <g fill="#333" font-family="Arial, Helvetica, sans-serif" font-size="13">
+    <text x="380" y="300">адиабата 1–2</text>
+    <text x="240" y="110">изохора 2–3</text>
+    <text x="270" y="60">изобара 3–4</text>
+    <text x="430" y="130">адиабата 4–5</text>
+    <text x="530" y="320">изохора 5–1</text>
+  </g>
+
+  <!-- Guides / ticks (subtle) -->
+  <g stroke="#999" stroke-width="1" opacity="0.4">
+    <line x1="230" y1="420" x2="230" y2="50"/>
+    <line x1="360" y1="420" x2="360" y2="50"/>
+    <line x1="70" y1="220" x2="680" y2="220"/>
+  </g>
+</svg>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+  <title>T–s диаграмма смешанного (Зейлигера) цикла</title>
+  <desc>Схематичная T–s диаграмма: 1–2 адиабатное сжатие (s=const), 2–3 изохорный подвод теплоты, 3–4 изобарный подвод теплоты, 4–5 адиабатное расширение (s=const), 5–1 изохорный отвод.</desc>
+  <rect x="0" y="0" width="720" height="480" fill="#ffffff"/>
+
+  <!-- Axes -->
+  <g stroke="#222" stroke-width="2" fill="none">
+    <line x1="70" y1="420" x2="680" y2="420"/>
+    <line x1="70" y1="420" x2="70" y2="50"/>
+  </g>
+  <g fill="#222" font-family="Arial, Helvetica, sans-serif" font-size="16">
+    <text x="682" y="425" dy="-6">s</text>
+    <text x="62" y="52">T</text>
+  </g>
+
+  <!-- Points (schematic) -->
+  <g fill="#000">
+    <circle cx="160" cy="320" r="3"/>
+    <circle cx="160" cy="160" r="3"/>
+    <circle cx="260" cy="140" r="3"/>
+    <circle cx="340" cy="170" r="3"/>
+    <circle cx="340" cy="280" r="3"/>
+  </g>
+
+  <!-- 1-2: isentropic compression (vertical up, s const) -->
+  <line x1="160" y1="320" x2="160" y2="160" stroke="#1f77b4" stroke-width="3"/>
+  <!-- 2-3: constant volume (T rises, s increases) -->
+  <path d="M 160,160 C 190,150 225,145 260,140" stroke="#d62728" stroke-width="3" fill="none"/>
+  <!-- 3-4: constant pressure (T rises, s increases) -->
+  <path d="M 260,140 C 290,150 320,160 340,170" stroke="#2ca02c" stroke-width="3" fill="none"/>
+  <!-- 4-5: isentropic expansion (vertical down) -->
+  <line x1="340" y1="170" x2="340" y2="280" stroke="#1f77b4" stroke-width="3"/>
+  <!-- 5-1: constant volume heat rejection (down-left) -->
+  <path d="M 340,280 C 300,300 230,315 160,320" stroke="#d62728" stroke-width="3" stroke-dasharray="6,6" fill="none"/>
+
+  <!-- Labels -->
+  <g fill="#111" font-family="Arial, Helvetica, sans-serif" font-size="14">
+    <text x="166" y="335">1</text>
+    <text x="166" y="156">2</text>
+    <text x="264" y="136">3</text>
+    <text x="344" y="166">4</text>
+    <text x="344" y="276">5</text>
+  </g>
+
+  <g fill="#333" font-family="Arial, Helvetica, sans-serif" font-size="13">
+    <text x="120" y="240">адиабата 1–2</text>
+    <text x="185" y="150">изохора 2–3</text>
+    <text x="290" y="150">изобара 3–4</text>
+    <text x="346" y="230">адиабата 4–5</text>
+    <text x="230" y="305">изохора 5–1</text>
+  </g>
+
+  <!-- Guides (subtle) -->
+  <g stroke="#999" stroke-width="1" opacity="0.4">
+    <line x1="160" y1="420" x2="160" y2="50"/>
+    <line x1="340" y1="420" x2="340" y2="50"/>
+    <line x1="70" y1="280" x2="680" y2="280"/>
+  </g>
+</svg>
+
