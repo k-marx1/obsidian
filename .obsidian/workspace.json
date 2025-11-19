@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Техническая термодинамика в химической технологии/Лекции.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лекции"
+              "title": "AGENTS"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техническая термодинамика в химической технологии/Лекции.md",
+                "file": "AGENTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лекции"
+              "title": "Outline of AGENTS"
             }
           }
         ],
@@ -174,12 +174,13 @@
   },
   "active": "89982ed84a6047d7",
   "lastOpenFiles": [
+    "Техническая термодинамика в химической технологии/Лекции.md",
+    "Техническая термодинамика в химической технологии/Лекции_кратко.md",
     "images/diesel-cycle-ts.png",
     "Концепции современного естествознания/19.11.md",
     "Концепции современного естествознания/Лекции.md",
     "Процессы и аппараты химической технологии/Лекции.md",
     "Техническая термодинамика в химической технологии/Лекции_кратко.pdf",
-    "Техническая термодинамика в химической технологии/Лекции_кратко.md",
     "AGENTS.md",
     "Концепции современного естествознания/Практика.md",
     "Экология/Лекции.md",
@@ -192,13 +193,11 @@
     "a.md",
     "Уравнение неразрывности^eq1.md",
     "Уравнение неразрывности.md",
-    "Техническая термодинамика в химической технологии/Лекции.md",
     "images/Pasted image 20251112133027.png",
     "images/Pasted image 20251112130031.png",
     "images/Pasted image 20251112125007.png",
     "images/Pasted image 20251112124903.png",
     "images/Pasted image 20251110132522.png",
-    "images/Pasted image 20251110130435.png",
-    "images/Pasted image 20251107114943.png"
+    "images/Pasted image 20251110130435.png"
   ]
 }
