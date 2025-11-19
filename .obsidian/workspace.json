@@ -11,12 +11,14 @@
             "id": "f1800ec2cf28b921",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Техническая термодинамика в химической технологии/dual_cycle_pv.svg"
+                "file": "Техническая термодинамика в химической технологии/Лекции.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "dual_cycle_pv"
+              "icon": "lucide-file",
+              "title": "Лекции"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/Техническая термодинамика в химической технологии/dual_cycle_pv.svg",
+                "file": "Техническая термодинамика в химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of dual_cycle_pv"
+              "title": "Outline of Лекции"
             }
           }
         ],
@@ -172,13 +174,13 @@
   },
   "active": "f1800ec2cf28b921",
   "lastOpenFiles": [
+    "images/Техническая термодинамика в химической технологии/dual_cycle_pv.svg",
     "images/diesel-cycle-ts.png",
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Техническая термодинамика в химической технологии/Лекции_кратко.md",
     "Техническая термодинамика в химической технологии/shpora.md",
     "Техническая термодинамика в химической технологии/Лекции_кратко.pdf",
     "images/Техническая термодинамика в химической технологии/dual_cycle_ts.svg",
-    "images/Техническая термодинамика в химической технологии/dual_cycle_pv.svg",
     "images/Техническая.md",
     "images/Техническая термодинамика в химической технологии",
     "Концепции современного естествознания/19.11.md",
