@@ -37,20 +37,20 @@
 
   <!-- Labels for points -->
   <g fill="#111" font-family="Arial, Helvetica, sans-serif" font-size="14">
-    <text x="526" y="434">1</text>
-    <text x="214" y="128">2</text>
-    <text x="214" y="66">3</text>
-    <text x="364" y="66">4</text>
-    <text x="526" y="216">5</text>
+    <text x="526" y="434">a</text>
+    <text x="214" y="128">c</text>
+    <text x="214" y="66">z</text>
+    <text x="364" y="66">z'</text>
+    <text x="526" y="216">e</text>
   </g>
 
   <!-- Segment labels -->
   <g fill="#333" font-family="Arial, Helvetica, sans-serif" font-size="13">
-    <text x="380" y="300">адиабата 1–2</text>
-    <text x="240" y="110">изохора 2–3</text>
-    <text x="270" y="60">изобара 3–4</text>
-    <text x="430" y="130">адиабата 4–5</text>
-    <text x="530" y="320">изохора 5–1</text>
+    <text x="380" y="300">адиабата a–c</text>
+    <text x="240" y="110">изохора c–z</text>
+    <text x="270" y="60">изобара z–z'</text>
+    <text x="430" y="130">адиабата z'–e</text>
+    <text x="530" y="320">изохора e–a</text>
   </g>
 
   <!-- Guides / ticks (subtle) -->
@@ -60,4 +60,3 @@
     <line x1="70" y1="220" x2="680" y2="220"/>
   </g>
 </svg>
-

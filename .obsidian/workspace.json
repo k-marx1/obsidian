@@ -11,14 +11,12 @@
             "id": "f1800ec2cf28b921",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Техническая термодинамика в химической технологии/Лекции.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Техническая термодинамика в химической технологии/dual_cycle_ts.svg"
               },
-              "icon": "lucide-file",
-              "title": "Лекции"
+              "icon": "lucide-image",
+              "title": "dual_cycle_ts"
             }
           }
         ]
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техническая термодинамика в химической технологии/Лекции.md",
+                "file": "images/Техническая термодинамика в химической технологии/dual_cycle_ts.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лекции"
+              "title": "Outline of dual_cycle_ts"
             }
           }
         ],
@@ -172,14 +170,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1800ec2cf28b921",
+  "active": "c92adcc077b5ae99",
   "lastOpenFiles": [
-    "Техническая термодинамика в химической технологии/shpora.md",
+    "images/Техническая термодинамика в химической технологии/dual_cycle_pv.svg",
     "Техническая термодинамика в химической технологии/Лекции.md",
+    "Техническая термодинамика в химической технологии/shpora.md",
     "images/Техническая.md",
     "Техническая термодинамика в химической технологии/Лекции_кратко.md",
     "images/Техническая термодинамика в химической технологии/dual_cycle_ts.svg",
-    "images/Техническая термодинамика в химической технологии/dual_cycle_pv.svg",
     "images/Техническая термодинамика в химической технологии",
     "Концепции современного естествознания/19.11.md",
     "Концепции современного естествознания/Лекции.md",
