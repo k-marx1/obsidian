@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экология/Практика.md",
+                "file": "Экология/Лекции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практика"
+              "title": "Лекции"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экология/Практика.md",
+                "file": "Экология/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Практика"
+              "title": "Outline of Лекции"
             }
           }
         ],
@@ -174,6 +174,7 @@
   },
   "active": "89982ed84a6047d7",
   "lastOpenFiles": [
+    "Экология/Практика.md",
     "Экология/Лекции.md",
     "Процессы и аппараты химической технологии/Лекции.md",
     "Процессы и аппараты химической технологии/Практика.md",
@@ -189,7 +190,6 @@
     "images/Pasted image 20251112130031.png",
     "images/Pasted image 20251112125007.png",
     "images/Pasted image 20251112124903.png",
-    "Экология/Практика.md",
     "images/Pasted image 20251110132522.png",
     "images/Pasted image 20251110130435.png",
     "images/Pasted image 20251107114943.png"
