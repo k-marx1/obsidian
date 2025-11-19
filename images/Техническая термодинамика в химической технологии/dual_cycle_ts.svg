@@ -28,7 +28,7 @@
   <!-- 2-3: constant volume (T rises, s increases) -->
   <path d="M 160,160 C 190,150 225,145 260,140" stroke="#d62728" stroke-width="3" fill="none"/>
   <!-- 3-4: constant pressure (T rises, s increases) -->
-  <path d="M 260,140 C 290,150 320,160 340,170" stroke="#2ca02c" stroke-width="3" fill="none"/>
+  <path d="M 260,140 C 290,130 320,120 340,110" stroke="#2ca02c" stroke-width="3" fill="none"/>
   <!-- 4-5: isentropic expansion (vertical down) -->
   <line x1="340" y1="170" x2="340" y2="280" stroke="#1f77b4" stroke-width="3"/>
   <!-- 5-1: constant volume heat rejection (down-left) -->
@@ -39,14 +39,14 @@
     <text x="166" y="335">1</text>
     <text x="166" y="156">2</text>
     <text x="264" y="136">3</text>
-    <text x="344" y="166">4</text>
+    <text x="344" y="106">4</text>
     <text x="344" y="276">5</text>
   </g>
 
   <g fill="#333" font-family="Arial, Helvetica, sans-serif" font-size="13">
     <text x="120" y="240">адиабата 1–2</text>
     <text x="185" y="150">изохора 2–3</text>
-    <text x="290" y="150">изобара 3–4</text>
+    <text x="290" y="120">изобара 3–4</text>
     <text x="346" y="230">адиабата 4–5</text>
     <text x="230" y="305">изохора 5–1</text>
   </g>
@@ -58,4 +58,3 @@
     <line x1="70" y1="280" x2="680" y2="280"/>
   </g>
 </svg>
-
