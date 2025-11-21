@@ -25,12 +25,14 @@
             "id": "ab48c40e4e49642d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Экология/Лекции.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Лекции"
             }
           }
         ],
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Лекции.md",
+                "file": "Экология/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
