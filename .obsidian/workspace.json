@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENTS.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "Лекции"
+            }
+          },
+          {
+            "id": "ab48c40e4e49642d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGENTS.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AGENTS"
+              "title": "Outline of Лекции"
             }
           }
         ],
@@ -168,12 +181,13 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "terminal:Open terminal": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89982ed84a6047d7",
+  "active": "ab48c40e4e49642d",
   "lastOpenFiles": [
+    "README.md",
+    "AGENTS.md",
     "Процессы и аппараты химической технологии/Лекции.md",
     "Техническая термодинамика в химической технологии/Лекции_кратко.pdf",
     "Техническая термодинамика в химической технологии/Лекции_кратко.md",
@@ -191,7 +205,6 @@
     "images/Pasted image 20251112125007.png",
     "images/Pasted image 20251112124903.png",
     "Excalidraw/Drawing 2025-11-09 14.35.40.excalidraw.md",
-    "AGENTS.md",
     "Экология/Лекции.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
     "Экология/Практика.md",
