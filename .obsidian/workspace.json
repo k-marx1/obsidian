@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экология/Лекции.md",
+                "file": "Химия/Лекции.md",
                 "mode": "source",
                 "source": false
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Экология/Лекции.md",
+                "file": "Химия/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,6 +188,8 @@
   },
   "active": "ab48c40e4e49642d",
   "lastOpenFiles": [
+    "Экология/Практика.md",
+    "Экология/Лекции.md",
     "images/PXL_20251121_082903281.jpg",
     "README.md",
     "AGENTS.md",
@@ -206,11 +208,8 @@
     "images/Pasted image 20251112133027.png",
     "images/Pasted image 20251112130031.png",
     "images/Pasted image 20251112125007.png",
-    "images/Pasted image 20251112124903.png",
     "Excalidraw/Drawing 2025-11-09 14.35.40.excalidraw.md",
-    "Экология/Лекции.md",
     "Техническая термодинамика в химической технологии/Лекции.md",
-    "Экология/Практика.md",
     "Техническая термодинамика в химической технологии/Практика.md"
   ]
 }
