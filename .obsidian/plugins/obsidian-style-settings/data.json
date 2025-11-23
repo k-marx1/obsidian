@@ -11,5 +11,10 @@
   "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-sandy-beaches-light",
   "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": false,
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
-  "anuppuccin-theme-settings@@anp-custom-checkboxes": true
+  "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
+  "things-style@@mobile-black-background": true,
+  "things-style@@floating-button-off": true,
+  "things-style@@active-line": true,
+  "things-style@@fancy-code": true,
+  "things-style@@fancy-highlight": true
 }
