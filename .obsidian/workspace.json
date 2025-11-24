@@ -164,9 +164,19 @@
               "icon": "lucide-list",
               "title": "Outline of Лекции"
             }
+          },
+          {
+            "id": "0b59b8ecc647548a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -186,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab48c40e4e49642d",
+  "active": "0b59b8ecc647548a",
   "lastOpenFiles": [
     "images/Pasted image 20251124131243.png",
     "images/Pasted image 20251124131238.png",
