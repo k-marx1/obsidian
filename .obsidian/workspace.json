@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Лекции"
             }
+          },
+          {
+            "id": "33820b3c2f91236f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,13 +168,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Техническая термодинамика в химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Лекции"
+              "title": "Outline"
             }
           },
           {
@@ -207,7 +218,7 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ab48c40e4e49642d",
+  "active": "33820b3c2f91236f",
   "lastOpenFiles": [
     "images/Pasted image 20251126134041.png",
     "images/Pasted image 20251126130904.png",
