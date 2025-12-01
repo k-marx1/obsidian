@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Практика.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Практика"
+              "title": "Лекции"
             }
           }
         ],
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Процессы и аппараты химической технологии/Практика.md",
+                "file": "Процессы и аппараты химической технологии/Лекции.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Практика"
+              "title": "Outline of Лекции"
             }
           },
           {
@@ -223,6 +223,7 @@
   },
   "active": "33820b3c2f91236f",
   "lastOpenFiles": [
+    "Процессы и аппараты химической технологии/Практика.md",
     "Процессы и аппараты химической технологии/Лекции.md",
     "images/PXL_20251128_095338228.jpg",
     "images/Pasted image 20251126134041.png",
@@ -230,7 +231,6 @@
     "images/Pasted image 20251126125917.png",
     "images/Pasted image 20251126125833.png",
     "images/Техническая термодинамика в химической технологии/phase-diagram-water.svg",
-    "Процессы и аппараты химической технологии/Практика.md",
     "Химия/Практика.md",
     "images/Pasted image 20251124134047.png",
     "images/Pasted image 20251124131243.png",
