@@ -2,7 +2,7 @@
 ```mermaid
 ---
 config:
-	theme: 'forest'
+    theme: 'forest'
 ---
 flowchart 
     A --> B
@@ -13,8 +13,15 @@ flowchart
 config:
   theme: 'forest'
 ---
-flowchart
-  A-->B
+mindmap
+root(A)
+	B
+	C
+	D
+		E
+		F
+			G
+			H
 
 ```
 
