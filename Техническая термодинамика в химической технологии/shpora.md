@@ -2,13 +2,21 @@
 ```mermaid
 ---
 config:
-  theme: 'dark'
+	theme: 'forest'
 ---
-flowchart TD
-    A ==> B
+flowchart 
+    A --> B
 ```
 
+```mermaid
+---
+config:
+  theme: 'forest'
+---
+flowchart
+  A-->B
 
+```
 
 ---
 
