@@ -14,7 +14,7 @@ config:
   theme: 'forest'
 ---
 mindmap
-root(A)
+root($$$$)
 	B
 	C
 	D
